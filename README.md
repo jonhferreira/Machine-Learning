@@ -1,1 +1,1 @@
-Scrips de um aprendiz de ML
+Scrips de um aprendiz de Machine Learning
